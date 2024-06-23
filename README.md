@@ -1,0 +1,2 @@
+# SecodPro
+Django Project
